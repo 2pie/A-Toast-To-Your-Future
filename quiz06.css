@@ -524,7 +524,7 @@ body {
     margin-right: 30px;
     border-radius: 8pt;
 
-    box-shadow: 0px 00px 60px 2px var(--state-minimal);
+    box-shadow: 0px 00px 60px 2px var(--state-critical);
     /* text-align: left; */
 }
 
@@ -553,7 +553,7 @@ body {
     margin-bottom: 18px;   
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: var(--state-minimal);
+    color: var(--state-critical);
 }
 
 
@@ -581,7 +581,7 @@ body {
     margin-bottom: 18px;   
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: var(--state-minimal);
+    color: var(--state-critical);
 }
 
 .result_message {
