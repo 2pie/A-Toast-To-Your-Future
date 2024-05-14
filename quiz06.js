@@ -118,11 +118,11 @@ const color_critical =    "#91166D";
         // if then else condition application to secnd section of score --------------------------------
 
         if (section2Total <= 12) {
-            bonus = 1;
-        } else if (section2Total > 12 && section2Total <= 24) {
             bonus = 2;
+        } else if (section2Total > 12 && section2Total <= 24) {
+            bonus = 4;
         } else if (section2Total > 24) {
-            bonus = 3;
+            bonus = 6;
         }
 
 
