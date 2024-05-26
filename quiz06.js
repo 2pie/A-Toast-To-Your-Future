@@ -336,6 +336,7 @@ const color_critical =    "#91166D";
        document.getElementById('score_card_container').style.display = 'flex';
        // Show score card refreshButton
        document.getElementById('refreshButton').style.display = 'block';
+       document.getElementById('feedbackButton').style.display = 'block';
 
 
 
